@@ -733,6 +733,9 @@ a:hover {
     letter-spacing: 0.02em;
 
     margin-bottom: 24px;
+
+    /* Move badge slightly downward so the university name remains visible */
+    transform: translateY(28px);
 }
 
 .landing-content h1 {
