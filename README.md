@@ -234,7 +234,4 @@ The application has been deployed and tested through the complete admission work
 
 **KIRITHIKA R**
 
-Electronics and Communication Engineering  
-Saveetha Engineering College, Chennai
-
 GitHub: https://github.com/KRITHI1022
